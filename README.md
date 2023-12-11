@@ -11,7 +11,8 @@ GitHub Pages
 Author: Ronnie Obiayo @RObiayo
 ronnieobiayo59@gmail.com
 
-![image](https://github.com/RObiayo/RObiayo.github.io/assets/122901974/dac7a492-56b9-4c0f-9ce1-df5e16564290)
+![image](https://github.com/RObiayo/RObiayo.github.io/assets/122901974/ffdd7bb8-1329-46f5-9955-a0eb33d7eed3)
+
 
 License
 @RObiayo
